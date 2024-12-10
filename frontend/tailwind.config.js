@@ -19,7 +19,7 @@ export default {
         'glow': '0 0 10px rgba(29, 78, 216, 0.8), 0 0 20px rgba(29, 78, 216, 0.6), 0 0 30px rgba(29, 78, 216, 0.4)',
       },
       animation: {
-        fadeIn: 'fadeIn 1s ease-out',
+        fadeIn: 'fadeIn 3s ease-out',
       },
       keyframes: {
         fadeIn: {

@@ -26,13 +26,13 @@ const HomePage = () => {
 
             {/* Violet Shade Text */}
             <div>
-                <h1 className='text-6xl md:text-7xl lg:text-8xl  font-bold text-gray-200 tracking-wide text-center lg:pt-16 pt-12 md:pt-14'><span className='text-blue-600 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent'>Coming</span> Soon</h1>
+                <h1 className='text-6xl sm:text-7xl lg:text-8xl  font-bold text-gray-200 lg:tracking-wide tracking-wider text-center lg:pt-16 pt-12 md:pt-14'><span className='text-blue-600 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent'>Coming</span> Soon</h1>
             </div>
 
 
             {/* BELOW TEXT */}
             <div>
-                <p className='md:text-xl text-center text-gray-200 text-lg px-2 md:tracking-wider pt-6 md:pt-8'>Biggest Tech Community of Delhi-NCR</p>
+                <p className='md:text-xl text-center text-gray-200 text-lg px-10 md:tracking-wider pt-6 md:pt-8'>Biggest Tech Community of Delhi-NCR</p>
             </div>
 
             {/* CTA Button */}
