@@ -32,7 +32,7 @@ const HomePage = () => {
 
             {/* BELOW TEXT */}
             <div>
-                <p className='md:text-xl text-center text-gray-200 text-lg px-10 md:tracking-wider pt-6 md:pt-8'>Biggest Tech Community of Delhi-NCR</p>
+                <p className='md:text-xl text-center text-gray-200 text-lg px-14 sm:px-10 md:tracking-wider pt-6 md:pt-8'>Biggest Tech Community of Delhi-NCR</p>
             </div>
 
             {/* CTA Button */}
